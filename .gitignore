@@ -1,0 +1,24 @@
+# NUXT DEV/BUILD OUTPUTS
+.output
+.data
+.nuxt
+.nitro
+.cache
+dist
+
+# NODE DEPENDENCIES
+node_modules
+
+# LOGS
+logs
+*.log
+
+# MISC
+.DS_Store
+.fleet
+.idea
+
+# LOCAL ENV FILES
+.env
+.env.*
+!.env.example
